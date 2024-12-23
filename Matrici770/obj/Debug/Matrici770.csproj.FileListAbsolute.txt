@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\Matrici770\bin\Debug\Matrici770.exe.config
+C:\Users\rotar\source\repos\pbinfo\Matrici770\bin\Debug\Matrici770.exe
+C:\Users\rotar\source\repos\pbinfo\Matrici770\bin\Debug\Matrici770.pdb
+C:\Users\rotar\source\repos\pbinfo\Matrici770\obj\Debug\Matrici770.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\Matrici770\obj\Debug\Matrici770.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\pbinfo\Matrici770\obj\Debug\Matrici770.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\Matrici770\obj\Debug\Matrici770.exe
+C:\Users\rotar\source\repos\pbinfo\Matrici770\obj\Debug\Matrici770.pdb

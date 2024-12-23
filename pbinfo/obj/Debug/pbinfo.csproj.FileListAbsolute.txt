@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\pbinfo\bin\Debug\pbinfo.exe.config
+C:\Users\rotar\source\repos\pbinfo\pbinfo\bin\Debug\pbinfo.exe
+C:\Users\rotar\source\repos\pbinfo\pbinfo\bin\Debug\pbinfo.pdb
+C:\Users\rotar\source\repos\pbinfo\pbinfo\obj\Debug\pbinfo.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\pbinfo\obj\Debug\pbinfo.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\pbinfo\obj\Debug\pbinfo.exe
+C:\Users\rotar\source\repos\pbinfo\pbinfo\obj\Debug\pbinfo.pdb
+C:\Users\rotar\source\repos\pbinfo\pbinfo\obj\Debug\pbinfo.csproj.SuggestedBindingRedirects.cache
