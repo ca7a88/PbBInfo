@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\Vectori2858\bin\Debug\Vectori2858.exe.config
+C:\Users\rotar\source\repos\pbinfo\Vectori2858\bin\Debug\Vectori2858.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori2858\bin\Debug\Vectori2858.pdb
+C:\Users\rotar\source\repos\pbinfo\Vectori2858\obj\Debug\Vectori2858.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori2858\obj\Debug\Vectori2858.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori2858\obj\Debug\Vectori2858.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori2858\obj\Debug\Vectori2858.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori2858\obj\Debug\Vectori2858.pdb

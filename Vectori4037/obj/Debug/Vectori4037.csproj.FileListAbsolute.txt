@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\Vectori4037\bin\Debug\Vectori4037.exe.config
+C:\Users\rotar\source\repos\pbinfo\Vectori4037\bin\Debug\Vectori4037.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori4037\bin\Debug\Vectori4037.pdb
+C:\Users\rotar\source\repos\pbinfo\Vectori4037\obj\Debug\Vectori4037.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori4037\obj\Debug\Vectori4037.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori4037\obj\Debug\Vectori4037.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori4037\obj\Debug\Vectori4037.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori4037\obj\Debug\Vectori4037.pdb
