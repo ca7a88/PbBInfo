@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\Matrici207\bin\Debug\Matrici207.exe.config
+C:\Users\rotar\source\repos\pbinfo\Matrici207\bin\Debug\Matrici207.exe
+C:\Users\rotar\source\repos\pbinfo\Matrici207\bin\Debug\Matrici207.pdb
+C:\Users\rotar\source\repos\pbinfo\Matrici207\obj\Debug\Matrici207.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\Matrici207\obj\Debug\Matrici207.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\pbinfo\Matrici207\obj\Debug\Matrici207.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\Matrici207\obj\Debug\Matrici207.exe
+C:\Users\rotar\source\repos\pbinfo\Matrici207\obj\Debug\Matrici207.pdb

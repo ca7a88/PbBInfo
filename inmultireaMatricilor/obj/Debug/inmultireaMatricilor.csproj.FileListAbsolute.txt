@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\inmultireaMatricilor\bin\Debug\inmultireaMatricilor.exe.config
+C:\Users\rotar\source\repos\pbinfo\inmultireaMatricilor\bin\Debug\inmultireaMatricilor.exe
+C:\Users\rotar\source\repos\pbinfo\inmultireaMatricilor\bin\Debug\inmultireaMatricilor.pdb
+C:\Users\rotar\source\repos\pbinfo\inmultireaMatricilor\obj\Debug\inmultireaMatricilor.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\inmultireaMatricilor\obj\Debug\inmultireaMatricilor.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\pbinfo\inmultireaMatricilor\obj\Debug\inmultireaMatricilor.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\inmultireaMatricilor\obj\Debug\inmultireaMatricilor.exe
+C:\Users\rotar\source\repos\pbinfo\inmultireaMatricilor\obj\Debug\inmultireaMatricilor.pdb
