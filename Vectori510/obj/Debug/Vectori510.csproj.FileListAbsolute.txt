@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\Vectori510\bin\Debug\Vectori510.exe.config
+C:\Users\rotar\source\repos\pbinfo\Vectori510\bin\Debug\Vectori510.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori510\bin\Debug\Vectori510.pdb
+C:\Users\rotar\source\repos\pbinfo\Vectori510\obj\Debug\Vectori510.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori510\obj\Debug\Vectori510.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori510\obj\Debug\Vectori510.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori510\obj\Debug\Vectori510.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori510\obj\Debug\Vectori510.pdb

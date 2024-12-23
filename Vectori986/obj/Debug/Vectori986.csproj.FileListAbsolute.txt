@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\Vectori986\bin\Debug\Vectori986.exe.config
+C:\Users\rotar\source\repos\pbinfo\Vectori986\bin\Debug\Vectori986.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori986\bin\Debug\Vectori986.pdb
+C:\Users\rotar\source\repos\pbinfo\Vectori986\obj\Debug\Vectori986.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori986\obj\Debug\Vectori986.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori986\obj\Debug\Vectori986.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori986\obj\Debug\Vectori986.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori986\obj\Debug\Vectori986.pdb

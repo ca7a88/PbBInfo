@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\Vectori511\bin\Debug\Vectori511.exe.config
+C:\Users\rotar\source\repos\pbinfo\Vectori511\bin\Debug\Vectori511.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori511\bin\Debug\Vectori511.pdb
+C:\Users\rotar\source\repos\pbinfo\Vectori511\obj\Debug\Vectori511.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori511\obj\Debug\Vectori511.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori511\obj\Debug\Vectori511.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori511\obj\Debug\Vectori511.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori511\obj\Debug\Vectori511.pdb
