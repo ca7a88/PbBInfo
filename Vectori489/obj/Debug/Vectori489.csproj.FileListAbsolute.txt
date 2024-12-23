@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\pbinfo\Vectori489\bin\Debug\Vectori489.exe.config
+C:\Users\rotar\source\repos\pbinfo\Vectori489\bin\Debug\Vectori489.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori489\bin\Debug\Vectori489.pdb
+C:\Users\rotar\source\repos\pbinfo\Vectori489\obj\Debug\Vectori489.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori489\obj\Debug\Vectori489.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori489\obj\Debug\Vectori489.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\pbinfo\Vectori489\obj\Debug\Vectori489.exe
+C:\Users\rotar\source\repos\pbinfo\Vectori489\obj\Debug\Vectori489.pdb
